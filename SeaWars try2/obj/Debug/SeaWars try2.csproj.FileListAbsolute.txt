@@ -1,0 +1,28 @@
+D:\C# Projects\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.exe.config
+D:\C# Projects\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.exe
+D:\C# Projects\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.pdb
+D:\C# Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.AssemblyReference.cache
+D:\C# Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.SuggestedBindingRedirects.cache
+D:\C# Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars_try2.Properties.Resources.resources
+D:\C# Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.GenerateResource.cache
+D:\C# Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.CoreCompileInputs.cache
+D:\C# Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.exe
+D:\C# Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.pdb
+C:\Projects\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.exe.config
+C:\Projects\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.exe
+C:\Projects\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.pdb
+C:\Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.AssemblyReference.cache
+C:\Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars_try2.Properties.Resources.resources
+C:\Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.GenerateResource.cache
+C:\Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.CoreCompileInputs.cache
+C:\Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.exe
+C:\Projects\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.pdb
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.exe.config
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.exe
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\bin\Debug\SeaWars try2.pdb
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.AssemblyReference.cache
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\obj\Debug\SeaWars_try2.Properties.Resources.resources
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.GenerateResource.cache
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.csproj.CoreCompileInputs.cache
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.exe
+C:\Users\Ozymandia\Downloads\Telegram Desktop\SeaWars try2 (04-02-24 00_39)\SeaWars try2\SeaWars try2\obj\Debug\SeaWars try2.pdb
